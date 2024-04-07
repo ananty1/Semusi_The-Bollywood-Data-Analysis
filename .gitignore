@@ -1,0 +1,11 @@
+# Ignore images-data folder
+/images-data/
+
+# Ignore scripts-data folder
+/scripts-data/
+
+# Ignore trailer-data folder
+/trailer-data/
+
+# Ignore wikipedia-data folder
+/wikipedia-data/
